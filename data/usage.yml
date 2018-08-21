@@ -12,7 +12,7 @@ base: content/usage
 published:
 
   command-line-usage:
-    title: Command Line Usage
+    title: Command Line Usage Coucou
     files: <%= usage.base %>/command-line-usage.md
 
   using-less-in-the-browser:
